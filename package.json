@@ -1,0 +1,27 @@
+{
+  "name": "pruebanice",
+  "version": "1.0.0",
+  "description": "PROYECTO DE LA MATERIA JAVASCRIPT",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "jshint": "^2.9.5",
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shimberly/pruebanice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shimberly/pruebanice/issues"
+  },
+  "homepage": "https://github.com/Shimberly/pruebanice#readme"
+}
