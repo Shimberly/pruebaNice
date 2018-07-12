@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+.imgPortada{
+    width: 150px;
+}
+
+.piezas{
+    background-image: url(../img/madera.jpg);
+    padding: 20px;
+    width: 400px;
+    height: 450px;
+}
+
+.fondoRmp{
+    margin-right: 20px;
+    width: 750px;
+    
+}
+
+.imgPieza{
+    width: 100px;
+    height: 100px;
+}
+
+.fondoPz{
+    width: 450px;
+    height: 200px;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    margin-right:-22px;
+    margin-left: -22px;
+}
+
+#imagenFondo{
+    background-color: aquamarine;
+}
+
+#nombreRmp{
+    width: 450px;
+    margin: 0px auto;
+}
+
+.fondo{
+    background-image: url(../img/granja.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: beige ;
+}
+
+#botonRmp{
+    align-content: center;
+    margin-bottom: -10px;
+}
+
+#divRmp{
+    margin-top: -30px;
+}
+
+#boton{
+    text-align: center;
+    height: 300px;
+    font-family: 'Dancing', cursive;
+    font-size: larger;
+}
+
+#imgBoton{
+    width: 100px;
+}
+
+#btnLista{
+    background-image: url(../img/madera.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 15px;
+    border: 3px #814111 dashed;
+    margin: 5px;
+}
+
+#idh3{
+    font-family: 'Indie Flower', cursive;
+    color: bisque;
+}
+
+#lista{
+    padding: 150px 0 100px 0;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#nombre{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: -90px;
+}
+
+#logo{
+    text-align: center;
+}
+
+#audioDiv, #audioFondo{
+    display: none;
+}
+
+.bordes{
+    border: 2px black;
+}
+
+.tituloInicio{
+   color:red; 
+   text-align: center;
+   font-size:50px;
+   font-family:fantasy;
+}
